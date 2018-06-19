@@ -8,7 +8,7 @@ class DataPacket {
 	protected $message;
 	
 	public function __construct($ip, $port, $message){
-		$this->ip = $ip;
+		$this->ip = gethostbyname($ip;)
 		$this->port = $port;
 		$this->message = $message;
 	}
