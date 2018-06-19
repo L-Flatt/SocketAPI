@@ -1,0 +1,5 @@
+en.command.socklist: "Sockets created by SocketAPI List"
+en.bind.failed: "Failed to bind socket. Please check your ports on usage and try again."
+
+ko.command.socklist: "소켓 목록"
+ko.bind.failed: "소켓 바인딩에 실패했습니다. 포트가 이미 사용 중인지 확인하신 후 다시 시도해주세요."

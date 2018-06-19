@@ -1,0 +1,13 @@
+name: SocketAPI
+author: MyoSensei
+api: [3.0.0]
+website: "https://github.com/M-Parkour"
+version: 1.0
+main: drmyo\SocketAPI\SocketAPI
+commands:
+ socklist:
+  permission: sockapi.command.socklist
+  description: "Check your sockets created by SocketAPI"
+permissions:
+ sockapi.command.socklist:
+  default: "OP"
